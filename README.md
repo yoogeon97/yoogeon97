@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, My name is yoogeon. I started to learn Python a few days ago. Glad to see you! 👋
 
 <!--
 **yoogeon97/yoogeon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
